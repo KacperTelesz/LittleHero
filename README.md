@@ -1,6 +1,3 @@
-# LittleHero
-LittleHero is a console-based RPG written in C#, featuring turn-based combat, exploration, character progression, and inventory management. Built to practice object-oriented programming, it demonstrates inheritance, polymorphism, encapsulation, and the Factory design pattern.
-
 # Little Hero
 
 A turn-based, console RPG written in **C# / .NET**. Explore six ASCII dungeons, fight wolves and spiders, collect loot, level up and defeat the **Mad Goose** in the boss cave.
