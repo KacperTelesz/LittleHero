@@ -1,0 +1,15 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# Build output
+bin/
+obj/
+publish/
+artifacts/
+
+# Misc
+*.log
+.DS_Store
+Thumbs.db
