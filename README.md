@@ -12,7 +12,8 @@ The project was built to practice **object-oriented programming** in C#: inherit
 
 ![Main menu](docs/screenshots/menu.png)
 ![Exploration](docs/screenshots/exploration.png)
-![Battle](docs/screenshots/battle.png)
+![Battle](docs/screenshots/battle1screen.png)
+![Battle](docs/screenshots/battle2screen.png)
 
 ---
 
