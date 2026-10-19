@@ -9,16 +9,14 @@ The project was built to practice **object-oriented programming** in C#: inherit
 ![Platform](https://img.shields.io/badge/platform-Windows-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
-<!--
-Add screenshots to docs/screenshots/ and uncomment:
+
 ![Main menu](docs/screenshots/menu.png)
 ![Exploration](docs/screenshots/exploration.png)
 ![Battle](docs/screenshots/battle.png)
--->
 
 ---
 
-## Play the game (no Visual Studio needed)
+## Play the game
 
 1. Go to the **[Releases page](../../releases/latest)**.
 2. Download **`LittleHero-win-x64.zip`**.
@@ -286,7 +284,7 @@ Objects are built from smaller objects ("has-a" relationships):
 Requirements: [.NET 10 SDK](https://dotnet.microsoft.com/download).
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/LittleHero.git
+git clone https://github.com/KacperTelesz/LittleHero.git
 cd LittleHero
 dotnet run --project src/LittleHero
 ```
